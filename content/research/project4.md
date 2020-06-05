@@ -52,25 +52,13 @@ subtitle = ""
 ### **Assessmen of neuromuscular properties**
 
 <div>
-<img style="float: right; margin:30px 30px" src="anoceanofsky.jpg" height="300px" width="400px">
+<img style="float: left; margin:30px 30px" src="anoceanofsky.jpg" height="300px" width="400px">
 <font size="4">
-Our joints define how we move and interact with the environment. These interactions often involve 
-perturbations, such as stumbling, and joints must react to these perturbations to prevent damage, 
-maintain balance, or preserve the movement trajectory. Voluntary responses alone are usually not enough to 
-prevent the negative consequences of joint perturbations, as they often occur hundreds of milliseconds 
-after the perturbation, so that torques produced at the joint to counteract the perturbation will be 
-ineffective. Intrinsic and reflex stiffness are two additional, involuntary mechanisms that determine 
-the instantaneous response of a joint to external perturbations. These mechanisms produce torques around 
-the joint automatically in response to external perturbations. Thus, a comprehensive understanding of how 
-the brain constrols posture and movement must include a complete characterization of the joints’ intrinsic and reflex 
-stiffness. 
+Our joints define how we move and interact with the environment. These interactions often involve perturbations, such as stumbling, and joints must react to prevent damage, maintain balance, or preserve the movement trajectory. Voluntary reactions are not enough to prevent muscle damage or alteration joint trajectory produced by the perturbations, as they occur hundreds of milliseconds after the disturbance. Intrinsic and reflex stiffness are two additional, involuntary mechanisms that determine the instantaneous response of a joint to external perturbations. These mechanisms produce torques around the joint automatically in response to external perturbations. Thus, a comprehensive understanding of how the brain controls posture and movement must include a complete characterization of the joints’ intrinsic and reflex stiffness. 
 
-Intrinsic and reflex stiffness act and change together and their individual contributions to the overall 
-joint stiffness cannot be measured directly. Thus, advance biomechanical models, robotic interfaces, and systems identification 
-techniques must be used to fully describe the intrinsic and reflex stiffness.
+Intrinsic and reflex stiffness act and change together and their contributions to the overall joint stiffness cannot be measured directly. Thus, advanced biomechanical models, robotic interfaces, and systems identification techniques must be used to describe the intrinsic and reflex stiffness.
 
 The main objectives of this project are to:
-* Develop and validate a robotic interface to perturb human joints 
-* Evaluate novel systems identification techniques to minimize data requirements and improve robustness against noise.
-</font>
+* Develop and validate a robotic interface to perturb human joints. 
+* Evaluate novel systems identification techniques to minimize data requirements and improve robustness against noise.</font>
 <div>

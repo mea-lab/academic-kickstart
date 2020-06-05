@@ -49,10 +49,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-### **Estimation of Time-Varying Systems**
+### **Identification of nonlinear, time-varying systems**
 
 <div>
 <img style="float: right; margin:30px 30px" src="tv_model.jpg" height="300px" width="400px">
 <font size="4">
+Mathematical models are essential tools to describe and understand the behavior of physiological systems. Models provide a lot of information about the system under analysis and help to predict the effect of disease in the system function. 
+Most physiological systems cannot be modeled successfully as linear systems. And their response is influenced by external or internal factors. For example, the force produced by a muscle does not change linearly with the neural input; there are a minimum and maximum force that the muscle can produce. Furthermore, factors such as muscle length, velocity, fatigue, and previous activation greatly influence the force that the muscle can produce at a given time. Thus, models of physiological systems must account for these propeties of the systems.
+
+This project aims to develop and validate novel analytical and experimental approaches to identify mathematical models used to describe physiological systems. In particular, we are interested in models that describe the human neuromuscular system.
 </font>
 <div>

@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -52,22 +52,12 @@ subtitle = ""
 ### **Computer-vision based diagnosis of neurological diseases**
 
 <div>
-<img style="float: left; margin:30px 30px" src="download.jpg" height="300px" width="400px">
+<img style="float: left; margin:30px 30px" src="sample.png" height="200px" width="400px">
 <font size="4">
-The way we move our face call say a lot about our overall health. Our research 
-shows orofacial movements of patients with neurological, such as Parkinson's disease,
-Alzaihmer's diseaea, stroke, amyotrophic lateral sclerosis, and multiple sclerosis, 
-are significantly different from those of age-matched healthy controls. 
-Thus, analysis of orofacial movements can be used as a tool for diagnosis, 
-assessments, and monitoring of treatment effectiveneess in multiple clinical populations.  
+The way we move our face call say a lot about our overall health. Facial movements, such as smile of patients with neurological conditions, such as Parkinson's disease, Alzheimer's disease, stroke, and amyotrophic lateral sclerosis, are different from those of age-matched healthy controls. Thus, analysis of facial movements can be used to diagnose, assess, and monitor treatment effectiveness in multiple clinical populations.  
 
-However, if is difficult to track how the face moves. Typically, especialed and expensive 
-equipment, such as motion capture systems, are required to analyze the movements of the face. 
+However, it is difficult to track how the face moves. Typically, specialized and expensive equipment, such as motion capture systems, is required to measure the movements of the face. 
 Thus, this type of analysis is only performed in laboratory and research settings. 
 
-The main objective of this project is to apply and improve recent development on facial analysis based on 
-**convolutional neural networks** to develop a clinically valid tool for analysis of orofacial movements. Our lab
-will develop and validate an open-source, easy-to-use app that patients can use to objectivelly evaluate their disease
-status, and clinicias can use to monitor the effect of treatment from the patient's home using a computer or mobile device. 
-</font>
+The main objective of this project is to apply and improve recent facial analysis development based on **convolutional neural networks** to create a clinically valid tool for analysis of facial movements. Our lab will develop and validate an open-source, easy-to-use software application that patients can use to evaluate their disease status objectively. Clinicians can also use this application to monitor the treatment effect from the patient's home using a computer or mobile device. </font>
 <div>

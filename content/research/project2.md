@@ -5,8 +5,8 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+active = true # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -49,19 +49,29 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<p style="font-size:24px;font-weight: bold">Computer-vision based diagnosis of neurological diseases</p>
+### **Fairness in AI**
 
-<head>
-<style>
-p.padding {
-  padding-left: 6cm;
-}
-p.padding2 {
-  padding-left: 20%;
-}
-</style>
-</head>
+<div>
+<img style="float: right; margin:30px 30px" src="facial_recognition_action.jpg" height="300px" width="400px">
+<font size="4">
 
-<div><p style="float: left;"><img src="download.jpg" height="300px" width="400px" border="1px" padding = "20px"></p><div class="horizontalgap" style="width:50px"></div>
-<p class="padding">Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
-</div>
+**Convolutional neural networks** are typically trained with large datasets of 
+labelled or unlabelled data. Collecting such data is expensive and time-consuming, 
+and the datasets are often unbalanced, meaning that certain groups of categories 
+are poorly represented in the data. Unbalanced dataset can have important negative 
+consequences in the resulting models. For instance, facial recognition algorithms 
+based on convolutional neural networks  tend to be very accurate for white, young 
+male subjects. However, the models’ accuracy when applied to a people of color is 
+often much lower. There is a significant interest for developing balanced datasets 
+to train fair algorithms, and companies such as Google and IBM are investing significant 
+resources to create these new datasets.
+However, the problem is more challenging when dealing with clinical data, because 
+collecting large datasets of clinical is often impossible due to the limited number 
+of patients and privacy concerns. 
+
+In this project, we will explore how new machine learning techniques such as transfer 
+learning and generative-adversarial networks can help to mitigate the problem of 
+algorithmic bias against clinical populations without requiring large databases of 
+representative data.
+</font>
+<div>

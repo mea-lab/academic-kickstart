@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor - Biomedical Enginering Program 
+role: Assistant Professor - Biomedical Engineering Program 
 
 # Organizations/Affiliations
 organizations:
