@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yana Yunusova, Ph.D.
+title: Yana Yunusova
 
 # Username (this should match the folder name)
 authors:

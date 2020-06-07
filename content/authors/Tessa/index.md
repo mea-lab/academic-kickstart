@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tessa A. Hadlock, MD
+title: Tessa A. Hadlock
 
 # Username (this should match the folder name)
 authors:

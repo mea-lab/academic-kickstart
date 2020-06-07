@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Robert E. Kearney, Ph.D.
+title: Robert E. Kearney
 
 # Username (this should match the folder name)
 authors:

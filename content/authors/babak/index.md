@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Babak Taati, Ph.D.
+title: Babak Taati
 
 # Username (this should match the folder name)
 authors:
