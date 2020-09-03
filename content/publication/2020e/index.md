@@ -24,7 +24,7 @@ publication_types: ["3"]
 publication: "_Submitted to_ 15th IEEE International Conference on Automatic Face and Gesture Recognition"
 publication_short: ""
 
-abstract: ""
+abstract: "Orofacial deficits are common in people with Parkinson's disease (PD) and their evolution might represent an important biomarker of disease progression. We are developing an automated system for assessment of orofacial function in PD that can be used in-home or in-clinic and can provide useful and objective clinical information that informs disease management. Our current approach relies on color and depth cameras for the estimation of 3D facial movements. However, depth cameras are not commonly available, might be expensive, and require specialized software for control and data processing. The objective of this paper was to evaluate if depth cameras are needed to differentiate between healthy controls and PD patients based on features extracted from orofacial kinematics. Results indicate that 2D features, extracted from color cameras only, are as informative as 3D features, extracted from color and depth cameras, differentiating healthy controls from PD patients. These results pave the way for the development of a universal system for automatic and objective assessment of orofacial function in PD."
 # Summary. An optional shortened abstract.
 summary: ""
 

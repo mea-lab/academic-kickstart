@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor - Biomedical Engineering Program 
+role: Assistant Professor <br> Biomedical Engineering 
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational neuroscience, human motor disorders, and application of artificial intelligence to health care.
 
 interests:
 - Artificial Intelligence
