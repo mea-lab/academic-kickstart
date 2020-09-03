@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time-Varying Systems | MEA-Lab</title>
+    <link>https://mea-lab.github.io/tag/time-varying-systems/</link>
+      <atom:link href="https://mea-lab.github.io/tag/time-varying-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Time-Varying Systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Diego L. Guarin</copyright><lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mea-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Time-Varying Systems</title>
+      <link>https://mea-lab.github.io/tag/time-varying-systems/</link>
+    </image>
+    
+    <item>
+      <title>Unbiased estimation of human joint intrinsic mechanical properties during movement</title>
+      <link>https://mea-lab.github.io/publication/2018b/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2018b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of a time-varying, box-jenkins model of intrinsic joint compliance</title>
+      <link>https://mea-lab.github.io/publication/2017b/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2017b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of time-varying, intrinsic and reflex dynamic joint stiffness during movement. Application to the ankle joint</title>
+      <link>https://mea-lab.github.io/publication/2017a/</link>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2017a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An instrumental variable approach for the identification of time-varying, Hammerstein systems</title>
+      <link>https://mea-lab.github.io/publication/2015b/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2015b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods for the Identification of Time-Varying Hammerstein Systems with Applications to the Study of Dynamic Joint Stiffness</title>
+      <link>https://mea-lab.github.io/publication/2015c/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2015c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametric methods for identification of time-invariant and time-varying joint stiffness models</title>
+      <link>https://mea-lab.github.io/publication/2015d/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2015d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-varying identification of ankle dynamic joint stiffness during movement with constant muscle activation</title>
+      <link>https://mea-lab.github.io/publication/2015a/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2015a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

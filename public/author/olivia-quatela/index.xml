@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olivia Quatela | MEA-Lab</title>
+    <link>https://mea-lab.github.io/author/olivia-quatela/</link>
+      <atom:link href="https://mea-lab.github.io/author/olivia-quatela/index.xml" rel="self" type="application/rss+xml" />
+    <description>Olivia Quatela</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Diego L. Guarin</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mea-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Olivia Quatela</title>
+      <link>https://mea-lab.github.io/author/olivia-quatela/</link>
+    </image>
+    
+    <item>
+      <title>The spectrum of facial palsy: The MEEI facial palsy photo and video standard set</title>
+      <link>https://mea-lab.github.io/publication/2020d/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2020d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spontaneity Assessment in Dually Innervated Gracilis Smile Reanimation Surgery</title>
+      <link>https://mea-lab.github.io/publication/2019a/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2019a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

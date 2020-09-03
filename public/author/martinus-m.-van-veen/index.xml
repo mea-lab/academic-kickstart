@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martinus M. van Veen | MEA-Lab</title>
+    <link>https://mea-lab.github.io/author/martinus-m.-van-veen/</link>
+      <atom:link href="https://mea-lab.github.io/author/martinus-m.-van-veen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martinus M. van Veen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Diego L. Guarin</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mea-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Martinus M. van Veen</title>
+      <link>https://mea-lab.github.io/author/martinus-m.-van-veen/</link>
+    </image>
+    
+    <item>
+      <title>Toward an automatic system for computer-aided assessment in facial palsy</title>
+      <link>https://mea-lab.github.io/publication/2020b/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2020b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spontaneity Assessment in Dually Innervated Gracilis Smile Reanimation Surgery</title>
+      <link>https://mea-lab.github.io/publication/2019a/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In the eye of the beholder: Changes in perceived emotion expression after smile reanimation</title>
+      <link>https://mea-lab.github.io/publication/2019b/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2019b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
