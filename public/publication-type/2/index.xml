@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | MEA-Lab</title>
+    <link>https://mea-lab.github.io/publication-type/2/</link>
+      <atom:link href="https://mea-lab.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Diego L. Guarin</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mea-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://mea-lab.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Toward an automatic system for computer-aided assessment in facial palsy</title>
+      <link>https://mea-lab.github.io/publication/2020b/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2020b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implantable wireless device for study of entrapment neuropathy</title>
+      <link>https://mea-lab.github.io/publication/2020c/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2020c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The spectrum of facial palsy: The MEEI facial palsy photo and video standard set</title>
+      <link>https://mea-lab.github.io/publication/2020d/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2020d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spontaneity Assessment in Dually Innervated Gracilis Smile Reanimation Surgery</title>
+      <link>https://mea-lab.github.io/publication/2019a/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinician and Automated Assessments of Facial Function Following Eyelid Weight Placement</title>
+      <link>https://mea-lab.github.io/publication/2019c/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2019c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In the eye of the beholder: Changes in perceived emotion expression after smile reanimation</title>
+      <link>https://mea-lab.github.io/publication/2019b/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unbiased estimation of human joint intrinsic mechanical properties during movement</title>
+      <link>https://mea-lab.github.io/publication/2018b/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2018b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A machine learning approach for automated facial measurements in facial palsy</title>
+      <link>https://mea-lab.github.io/publication/2018a/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of a time-varying, box-jenkins model of intrinsic joint compliance</title>
+      <link>https://mea-lab.github.io/publication/2017b/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2017b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of time-varying, intrinsic and reflex dynamic joint stiffness during movement. Application to the ankle joint</title>
+      <link>https://mea-lab.github.io/publication/2017a/</link>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2017a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An instrumental variable approach for the identification of time-varying, Hammerstein systems</title>
+      <link>https://mea-lab.github.io/publication/2015b/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2015b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods for the Identification of Time-Varying Hammerstein Systems with Applications to the Study of Dynamic Joint Stiffness</title>
+      <link>https://mea-lab.github.io/publication/2015c/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2015c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametric methods for identification of time-invariant and time-varying joint stiffness models</title>
+      <link>https://mea-lab.github.io/publication/2015d/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2015d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriela_Acevedo | MEA-Lab</title>
+    <link>https://mea-lab.github.io/author/gabriela_acevedo/</link>
+      <atom:link href="https://mea-lab.github.io/author/gabriela_acevedo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gabriela_Acevedo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Diego L. Guarin</copyright>
+    <image>
+      <url>https://mea-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Gabriela_Acevedo</title>
+      <link>https://mea-lab.github.io/author/gabriela_acevedo/</link>
+    </image>
+    
+    <item>
+      <title>Gabriela Acevedo</title>
+      <link>https://mea-lab.github.io/author/gabriela-acevedo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/author/gabriela-acevedo/</guid>
+      <description>&lt;p&gt;Gabriela Acevedo is a Ph.D student in the Biomedical Engineering program at Florida Institute of Technology. She will be working as a graduate assistant in projects related with neuroscience and machine learning. She is interested in combining Neuroengineering with Computer Science to improve the diagnosis and treatment of different neurological disorders.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

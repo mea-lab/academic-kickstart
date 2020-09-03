@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mariam_Chanie | MEA-Lab</title>
+    <link>https://mea-lab.github.io/author/mariam_chanie/</link>
+      <atom:link href="https://mea-lab.github.io/author/mariam_chanie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mariam_Chanie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Diego L. Guarin</copyright>
+    <image>
+      <url>https://mea-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mariam_Chanie</title>
+      <link>https://mea-lab.github.io/author/mariam_chanie/</link>
+    </image>
+    
+    <item>
+      <title>Mariam Chanie</title>
+      <link>https://mea-lab.github.io/author/mariam-chanie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/author/mariam-chanie/</guid>
+      <description>&lt;p&gt;Mariam Chanie is a graduate student assistant working on a project to validate a device used to characterize the mechanical properties of the human ankle. She is interested in integrating electromechanical systems and biomechanics to develop medical devices for an application in cardiovascular and neuromuscular systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

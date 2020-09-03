@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Bandini | MEA-Lab</title>
+    <link>https://mea-lab.github.io/author/andrea-bandini/</link>
+      <atom:link href="https://mea-lab.github.io/author/andrea-bandini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Bandini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Diego L. Guarin</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mea-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Andrea Bandini</title>
+      <link>https://mea-lab.github.io/author/andrea-bandini/</link>
+    </image>
+    
+    <item>
+      <title>Estimation of Orofacial Kinematics in Parkinson&#39;s Disease: Comparison of 2D and 3D Markerless Systems for Motion Tracking</title>
+      <link>https://mea-lab.github.io/publication/2020e/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2020e/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

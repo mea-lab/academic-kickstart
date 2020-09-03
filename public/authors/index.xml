@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | MEA-Lab</title>
+    <link>https://mea-lab.github.io/authors/</link>
+      <atom:link href="https://mea-lab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Diego L. Guarin</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mea-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://mea-lab.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Babak Taati</title>
+      <link>https://mea-lab.github.io/author/babak-taati/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/author/babak-taati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diego L. Guarin</title>
+      <link>https://mea-lab.github.io/author/diego-l.-guarin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/author/diego-l.-guarin/</guid>
+      <description>&lt;p&gt;Diego L. Guarin is an Assistant Professor in the Biomedical Engineering program at the Florida Institue of Technology. His research interests include the application of machine learning and computer vision for assessing neurological diseases, and the development of novel signal processing approaches to study the human neuromuscular system. 
+He is the director of the Movement Evaluation and Analysis Laboratory at Florida Tech.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gabriela Acevedo</title>
+      <link>https://mea-lab.github.io/author/gabriela-acevedo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/author/gabriela-acevedo/</guid>
+      <description>&lt;p&gt;Gabriela Acevedo is a Ph.D student in the Biomedical Engineering program at Florida Institute of Technology. She will be working as a graduate assistant in projects related with neuroscience and machine learning. She is interested in combining Neuroengineering with Computer Science to improve the diagnosis and treatment of different neurological disorders.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mariam Chanie</title>
+      <link>https://mea-lab.github.io/author/mariam-chanie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/author/mariam-chanie/</guid>
+      <description>&lt;p&gt;Mariam Chanie is a graduate student assistant working on a project to validate a device used to characterize the mechanical properties of the human ankle. She is interested in integrating electromechanical systems and biomechanics to develop medical devices for an application in cardiovascular and neuromuscular systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert E. Kearney</title>
+      <link>https://mea-lab.github.io/author/robert-e.-kearney/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/author/robert-e.-kearney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tessa A. Hadlock</title>
+      <link>https://mea-lab.github.io/author/tessa-a.-hadlock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/author/tessa-a.-hadlock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yana Yunusova</title>
+      <link>https://mea-lab.github.io/author/yana-yunusova/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/author/yana-yunusova/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

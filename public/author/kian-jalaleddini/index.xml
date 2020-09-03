@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kian Jalaleddini | MEA-Lab</title>
+    <link>https://mea-lab.github.io/author/kian-jalaleddini/</link>
+      <atom:link href="https://mea-lab.github.io/author/kian-jalaleddini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kian Jalaleddini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Diego L. Guarin</copyright><lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mea-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Kian Jalaleddini</title>
+      <link>https://mea-lab.github.io/author/kian-jalaleddini/</link>
+    </image>
+    
+    <item>
+      <title>Methods for the Identification of Time-Varying Hammerstein Systems with Applications to the Study of Dynamic Joint Stiffness</title>
+      <link>https://mea-lab.github.io/publication/2015c/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2015c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametric methods for identification of time-invariant and time-varying joint stiffness models</title>
+      <link>https://mea-lab.github.io/publication/2015d/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2015d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis and modeling of noise in biomedical systems</title>
+      <link>https://mea-lab.github.io/publication/2013b/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2013b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of a parametric, discrete-time model of ankle stiffness</title>
+      <link>https://mea-lab.github.io/publication/2013a/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2013a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
