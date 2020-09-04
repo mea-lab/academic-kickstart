@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time-Varying Systems | MEA-Lab</title>
+    <link>https://mea-lab.github.io/category/time-varying-systems/</link>
+      <atom:link href="https://mea-lab.github.io/category/time-varying-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Time-Varying Systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Diego L. Guarin</copyright><lastBuildDate>Sat, 19 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mea-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Time-Varying Systems</title>
+      <link>https://mea-lab.github.io/category/time-varying-systems/</link>
+    </image>
+    
+    <item>
+      <title>Identification of a time-varying, box-jenkins model of intrinsic joint compliance</title>
+      <link>https://mea-lab.github.io/publication/2017b/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2017b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

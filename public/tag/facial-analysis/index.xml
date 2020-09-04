@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Facial Analysis | MEA-Lab</title>
+    <link>https://mea-lab.github.io/tag/facial-analysis/</link>
+      <atom:link href="https://mea-lab.github.io/tag/facial-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Facial Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Diego L. Guarin</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mea-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Facial Analysis</title>
+      <link>https://mea-lab.github.io/tag/facial-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Estimation of Orofacial Kinematics in Parkinson&#39;s Disease: Comparison of 2D and 3D Markerless Systems for Motion Tracking</title>
+      <link>https://mea-lab.github.io/publication/2020e/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2020e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Facial Landmark Localization in Clinical Populations--Improving Model Performance with a Small Dataset</title>
+      <link>https://mea-lab.github.io/publication/2020a/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2020a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an automatic system for computer-aided assessment in facial palsy</title>
+      <link>https://mea-lab.github.io/publication/2020b/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2020b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The spectrum of facial palsy: The MEEI facial palsy photo and video standard set</title>
+      <link>https://mea-lab.github.io/publication/2020d/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2020d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinician and Automated Assessments of Facial Function Following Eyelid Weight Placement</title>
+      <link>https://mea-lab.github.io/publication/2019c/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2019c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In the eye of the beholder: Changes in perceived emotion expression after smile reanimation</title>
+      <link>https://mea-lab.github.io/publication/2019b/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A machine learning approach for automated facial measurements in facial palsy</title>
+      <link>https://mea-lab.github.io/publication/2018a/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/publication/2018a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
